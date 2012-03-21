@@ -1,0 +1,12 @@
+
+body {
+    background: #ffffff;
+    font: normal 13px/1.65 "PT Sans", "Helvetica", "Arial", sans-serif;
+    font-weight: normal;
+    color: #626262;
+    width: 100%;
+    text-align: left;
+    line-height: 1.7;
+    position:relative;
+}
+
